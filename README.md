@@ -8,7 +8,7 @@ Bu proje, sanat eserlerinin görüntülerinden Kübizm, Empresyonizm, Ekspresyon
 -**Python**: Programlama Dili
 
 ## Kütüphaneler
-  -**Web Scraping**
+  -**Web Scraping**:
   -Selenium: Dinamik sayfalardan veri çekme için selenium kütüphanesi tercih edilmiştir.
   Requets: Selenium kütüphanesiyle beraber requets kütüphanesi çekilen verileri indirme işlemi için kullanılmıştır.
   -**Görüntü İşleme**:  
