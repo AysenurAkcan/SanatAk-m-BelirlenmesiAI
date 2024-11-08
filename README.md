@@ -1,23 +1,21 @@
-## Sanat Eserlerinde Akımın Belirlenmesi
+# Sanat Eserlerinde Akımın Belirlenmesi
 
 ## Proje Özeti
-Bu proje, sanat eserlerinin görüntülerinden Kübizm, Empresyonizm, Ekspresyonizm, Realizm, Surrealizm akımlarını belirlemek için bir yapay zeka modeli geliştirmeyi amaçlamaktadır. Çeşitli web kaynaklarından veri çekilerek veriler toplanıp akımlara uygun olmayan verilerin elenmesiyle veri seti oluşturulmuştur ve görüntülerin doğru sınıflandırılabilmesi için veri setinde döndürme, parlaklık değiştirme, yansıma ve satürasyon gibi veri artırma teknikleri görüntülerde rastgele kullanılmıştır.
+Bu proje, sanat eserlerinin görüntülerinden Kübizm, Empresyonizm, Ekspresyonizm, Realizm ve Surrealizm akımlarını belirlemek için bir yapay zeka modeli geliştirmeyi amaçlamaktadır. Çeşitli web kaynaklarından veri çekilerek veriler toplanmış ve akımlara uygun olmayan veriler elenerek bir veri seti oluşturulmuştur. Görüntülerin doğru sınıflandırılabilmesi için veri setinde döndürme, parlaklık değiştirme, yansıma ve satürasyon gibi veri artırma teknikleri rastgele kullanılmıştır.
 
 ## Geliştirme Ortamı
--**Jupyter Notebook**: IDE
--**Python**: Programlama Dili
+- **Jupyter Notebook**: IDE
+- **Python**: Programlama Dili
 
 ## Kütüphaneler
-  -**Web Scraping**:
-  -Selenium: Dinamik sayfalardan veri çekme için selenium kütüphanesi tercih edilmiştir.
-  Requets: Selenium kütüphanesiyle beraber requets kütüphanesi çekilen verileri indirme işlemi için kullanılmıştır.
-  -**Görüntü İşleme**:  
-  -OpenCV: Döndürme, parlaklık değiştirme, yansıma ve satürasyon görüntü işlemelerini gerçekleştirme için kullanılmıştır.
-  -Pillow: Çeklilen görüntülerde akımların içerisinde bulunabilecek aynı görüntülerin, pHash değerinin tespit edilip ikililiği kaldırma işlemi yapılmıştır.
-  
+
+- **Web Scraping**:
+  - **Selenium**: Dinamik sayfalardan veri çekme için tercih edilmiştir.
+  - **Requests**: Selenium kütüphanesiyle beraber çekilen verileri indirme işlemi için kullanılmıştır.
+
+- **Görüntü İşleme**:
+  - **OpenCV**: Döndürme, parlaklık değiştirme, yansıma ve satürasyon görüntü işlemelerini gerçekleştirmek için kullanılmıştır.
+  - **Pillow**: Çekilen görüntülerde akımların içerisinde bulunabilecek aynı görüntülerin pHash değerinin tespit edilip ikililiği kaldırma işlemi yapılmıştır.
+
 ## Sonuç ve Değerlendirme
-İsterlere göre uygun görüntü verileri toplanıp veri seti oluşturarak modelleme kısmı için olup görüntü işlemeyle temel oluşturulmuştur.
-
-  
-
-
+İsterlere göre uygun görüntü verileri toplanıp veri seti oluşturarak modelleme kısmı için temel oluşturulmuştur.
