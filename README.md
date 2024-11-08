@@ -11,7 +11,7 @@ Bu proje, sanat eserlerinin görüntülerinden Kübizm, Empresyonizm, Ekspresyon
   -**Web Scraping**
   -Selenium: Dinamik sayfalardan veri çekme için selenium kütüphanesi tercih edilmiştir.
   Requets: Selenium kütüphanesiyle beraber requets kütüphanesi çekilen verileri indirme işlemi için kullanılmıştır.
-  -Görüntü İşleme:  
+  -**Görüntü İşleme**:  
   -OpenCV: Döndürme, parlaklık değiştirme, yansıma ve satürasyon görüntü işlemelerini gerçekleştirme için kullanılmıştır.
   -Pillow: Çeklilen görüntülerde akımların içerisinde bulunabilecek aynı görüntülerin, pHash değerinin tespit edilip ikililiği kaldırma işlemi yapılmıştır.
   
