@@ -4,8 +4,8 @@
 Bu proje, sanat eserlerinin görüntülerinden Kübizm, Empresyonizm, Ekspresyonizm, Realizm ve Surrealizm akımlarını belirlemek için bir yapay zeka modeli geliştirmeyi amaçlamaktadır. Çeşitli web kaynaklarından veri çekilerek veriler toplanmış ve akımlara uygun olmayan veriler elenerek bir veri seti oluşturulmuştur. Görüntülerin doğru sınıflandırılabilmesi için veri setinde döndürme, parlaklık değiştirme, yansıma ve satürasyon gibi veri artırma teknikleri rastgele kullanılmıştır.
 
 ## Geliştirme Ortamı
-- **Jupyter Notebook**: IDE
 - **Python**: Programlama Dili
+- **Jupyter Notebook**: IDE
 
 ## Kütüphaneler
 
