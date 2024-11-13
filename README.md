@@ -21,5 +21,6 @@ Bu proje, sanat eserlerinin görüntülerinden Kübizm, Empresyonizm, Ekspresyon
 İsterlere göre uygun görüntü verileri toplanıp veri seti oluşturarak modelleme kısmı için temel oluşturulmuştur.
 
 ##
-- **Görüntü Verileri Linki**:https://drive.google.com/file/d/1rtwSL9KCACmlBDxS2z_8ECqrsvzZa4Eq/view?usp=sharing
-- **Proje Raporu Linki**:
+- **Görüntü Verileri Linki**: https://drive.google.com/file/d/1onDgCLA4vOZKTtHiuMMhsHo3F2cRUQ6l/view?usp=sharing
+- **Elenmiş Görüntü Verileri Linki**: https://drive.google.com/file/d/1onDgCLA4vOZKTtHiuMMhsHo3F2cRUQ6l/view?usp=sharing
+- **Proje Raporu Linki**: https://docs.google.com/document/d/1xJtAT9RlcJIyq5bNBpLfXd_xqMJy913N/edit?usp=sharing&ouid=111960309572738603205&rtpof=true&sd=true
