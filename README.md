@@ -23,4 +23,4 @@ Bu proje, sanat eserlerinin görüntülerinden Kübizm, Empresyonizm, Ekspresyon
 ##
 - **Görüntü Verileri Linki**: https://drive.google.com/file/d/1onDgCLA4vOZKTtHiuMMhsHo3F2cRUQ6l/view?usp=sharing
 - **Elenmiş Görüntü Verileri Linki**: https://drive.google.com/file/d/1onDgCLA4vOZKTtHiuMMhsHo3F2cRUQ6l/view?usp=sharing
-- **Proje Raporu Linki**: https://docs.google.com/document/d/1xJtAT9RlcJIyq5bNBpLfXd_xqMJy913N/edit?usp=sharing&ouid=111960309572738603205&rtpof=true&sd=true
+- **Proje Raporu Linki**: https://docs.google.com/document/d/1rGa2CpWS73XF_La88lgJ8iabOvBRP2uk/edit?usp=sharing&ouid=111960309572738603205&rtpof=true&sd=true
